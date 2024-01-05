@@ -99,6 +99,7 @@ nav a {
     text-align: center;
     font-size: 35px;
     font-weight: 700;
+    margin-bottom: 0px;
 }
 
 .section-description {
@@ -127,6 +128,7 @@ main{
 }
 .info-description{
     margin-top: 5px;
-
-    
+}
+#what{
+    padding: 30px 150px;
 }
